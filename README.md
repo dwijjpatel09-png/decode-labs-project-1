@@ -42,7 +42,7 @@ My name is Rahul Sharma.
 I live in Ahmedabad.
 My email is rahul@gmail.com
 I work as a Software Engineer.
-Phone: 9876543210
+Phone: 98765475739019
 ---
 
 ## 🧪 Test Case
@@ -52,8 +52,7 @@ Hi, I am Dwij Patel.
 I study Computer Engineering.
 My email is dwijjpatel09@gmail.com
 I live in Mehsana.
-Phone Number: 9313716613
-
+Phone Number: 9313327443329
 ---
 
 ## ✅ Output
@@ -61,7 +60,7 @@ Phone Number: 9313716613
 {
   "name": "Dwij Patel",
   "email": "dwijjpatel09@gmail.com",
-  "phone": "9313716613",
+  "phone": "93134857834729",
   "city": "Mehsana",
   "occupation": "Computer Engineering Student"
 }
